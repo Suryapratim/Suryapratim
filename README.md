@@ -1,8 +1,8 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Suryapratim[linkedin] <br/>
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Suryapratim][linkedin] <br/>
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Payment Gateway Integration using Rayzorpay
+- 🔭 I’m currently working on ...Payment Gateway Integration using Rayzorpay in ## [Krishworks][comp_website]
 - 🌱 I’m currently learning ... Angular.js
 - 👯 I’m looking to collaborate on ... Full Stack Development Projects
 - 🤔 I’m looking for help with ... DevOps
@@ -32,5 +32,5 @@
 
 
 
-[comp_website]: https://www.tcs.com/
-[linkedin]: https://www.linkedin.com/in/smk612/
+[comp_website]: https://krishworks.com/
+[linkedin]: https://www.linkedin.com/in/suryapratimray/
