@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ... DevOps
 - 💬 Ask me about ... Literally Anything
 - ⚡ Fun fact: ... I'm Bengali and I hate fish<br/>
-<img src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="100px">
+<img align="center" height="600px" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="700px">
 <br/>
 
 ### Connect with me:
