@@ -1,6 +1,6 @@
 ### Hello there I am [Suryapratim][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br/>
 
-### Here are some ideas to get you started:
+### Here are some ideas about me
 
 - 🔭 I’m currently working on ...Payment Gateway Integration using Rayzorpay in [Krishworks][comp_website]
 - 🌱 I’m currently learning ... Angular.js
@@ -8,6 +8,8 @@
 - 🤔 I’m looking for help with ... DevOps
 - 💬 Ask me about ... Literally Anything
 - ⚡ Fun fact: ... I'm Bengali and I hate fish<br/>
+<img src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="100px">
+<br/>
 
 ### Connect with me:
 
