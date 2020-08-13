@@ -2,7 +2,7 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Payment Gateway Integration using Rayzorpay in ## [Krishworks][comp_website]
+- 🔭 I’m currently working on ...Payment Gateway Integration using Rayzorpay in [Krishworks][comp_website]
 - 🌱 I’m currently learning ... Angular.js
 - 👯 I’m looking to collaborate on ... Full Stack Development Projects
 - 🤔 I’m looking for help with ... DevOps
@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Suryapratim | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-📫 Reach me: ... raysuryapratim@gmail.com
+📫 Reach me at: ... raysuryapratim@gmail.com
 <br/>
 
 ### Languages and Tools I have worked on:
