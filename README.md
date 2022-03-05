@@ -34,7 +34,7 @@
 
 
 
-[comp_website]: https://krishworks.com
+[comp_website]: https://www.cognizant.com/in/en
 [linkedin]: https://www.linkedin.com/in/suryapratimray
 [facebook]: https://www.facebook.com/suryapratim.ray.5
 [quora]: https://www.quora.com/profile/Suryapratim-Ray
