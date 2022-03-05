@@ -2,7 +2,7 @@
 
 ### Here are some ideas about me
 
-- 🔭 I’m currently working on ...Payment Gateway Integration using Rayzorpay in [Krishworks][comp_website]
+- 🔭 I’m currently working on ... Full Stack Web Development and Integration with Salesforce in [Cognizant][comp_website]
 - 🌱 I’m currently learning ... Angular.js
 - 👯 I’m looking to collaborate on ... Full Stack Development Projects
 - 🤔 I’m looking for help with ... DevOps
